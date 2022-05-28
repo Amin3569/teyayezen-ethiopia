@@ -1,0 +1,1065 @@
+id,number,fullname,sex,age,grade
+1,1,Afomiya Getnet Kefyalew,F,7,1A
+2,2,Amanuel Brihu,M,7,1A
+3,3,Amanuel Endale Beneberu,m,7,1A
+4,4,Amen Esayas W/Mariam,F,6,1A
+5,5,Bezawit Getahun Mersha,F,8,1A
+6,6,Bilen Zelalem,F,7,1A
+7,7,Biruktayit Fekede,F,7,1A
+8,8,Bisrat Abebe Mekonin,M,7,1A
+9,9,Bisrat Zinabu Getachew,M,7,1A
+10,10,Cristian Girma Kebede,f,8,1A
+11,11,Dagim Zena Tesfu,M,6,1A
+12,12,Emanda zerihun Belay,F,7,1A
+13,13,Eyuel Fikadu Asfaw,M,6,1A
+14,14,Eyuel Natnael Yadet,M,7,1A
+15,15,Eyuel Yonas Mamo,M,6,1A
+16,16,Firafis Solomon,F,6,1A
+17,17,Firaol Asmamaw Habte,M,7,1A
+18,18,Fireselam Abiyot Bayu,M,7,1A
+19,19,Gelila Fisaha H/Mariam,F,6,1A
+20,20,Henok Gezu Eshetu,M,6,1A
+21,21,Herma Shiferaw Girma,F,6,1A
+22,22,Hilina Abiy Tadele,F,6,1A
+23,23,Kalkidan Yilkal Tsedal,F,7,1A
+24,24,Kidus Yosef Eshetu,F,7,1A
+25,25,Kirubel Abreham,F,7,1A
+26,26,Liya Debebe Tekaling ,F,6,1A
+27,27,Maramawit Birkineh,F,6,1A
+28,28,Markan Henok Kidane,m,6,1A
+29,29,Markan Solomon Shimels,F,7,1A
+30,30,Markon Tasew Abera,M,7,1A
+31,31,Nafikot Moges Bezabih,F,6,1A
+32,32,Nahom Abebe,M,7,1A
+33,33,Nahom Desita Tesfahun,M,7,1A
+34,34,Nahom Fanuel Tefera,m,7,1A
+35,35,Nahom Kalkidan Asefa,M,6,1A
+36,36,Natanem Getnet Fikru,M,6,1A
+37,37,Rakeb Wendesen Betel,F,7,1A
+38,38,Rediet Nebiyat Mehamed,F,6,1A
+39,39,Reyot Lealem  Neway,m,7,1A
+40,40,Samuel Wendesen,M,7,1A
+41,41,Saron Mesfin Siyoum,F,6,1A
+42,42,Tsinat Dejene Asefa,F,7,1A
+43,43,Yabtsega Anteneh Tesfaye,F,7,1A
+44,44,Yafet Melaku Tafese,m,7,1A
+45,45,Yafet Tariku Kebede,m,7,1A
+46,46,Yemariam Behailu Tadese,M,7,1A
+47,1, Adisu Ditamo Worku,M,7,1B
+48,2,Abenezer Ameha Tsegaye ,M,7,1B
+49,3,Abyikber Adisu Tefera,m,7,1B
+50,4,Afomiya F/mariam Adnew,F,7,1B
+51,5,Amen Bayelign  Admasu,M,7,1B
+52,6,Bahiran Asefa Abegaz,M,8,1B
+53,7,Beka Fikru Beyene,m,6,1B
+54,8,Beminet Abenezer Bejiga,F,6,1B
+55,9,Beminet Yitagse Aremu,M,6,1B
+56,10,Dagmawi Eliyas Gebrush,M,7,1B
+57,11,Dawit Agonafir Shiferaw,M,7,1B
+58,12,Efrata Deme Ayele,F,7,1B
+59,13,Efrata Digafe Getachew,F,6,1B
+60,14,Eldana Hayilye Genene,F,7,1B
+61,15,Eldana Tigstu ,F,7,1B
+62,16,Eliyas Temam ,M,7,1B
+63,17,Emanda Aklilu W/Amanuel,F,6,1B
+64,18,Eyosiyas Yohanis Sida ,M,7,1B
+65,19,Fenet Abera Alemu,F,7,1B
+66,20,Haset Getu Moti,F,7,1B
+67,21,Hawinet Abera Alemu,F,8,1B
+68,22,Kaleab Getahun Jemaneh,M,7,1B
+69,23,Kalkidan Adiss Worku,F,7,1B
+70,24,Kalkidan Seteng Boge,F,8,1B
+71,25,Loyad Tafese Kebede,F,6,1B
+72,26,Meba Sintayehu Defar,F,6,1B
+73,27,Mehale Solomon Tadese,F,7,1B
+74,28,Mehanayim Endale Derese,F,6,1B
+75,29,Mekides Ayele  H/Mariam,F,7,1B
+76,30,Meklit Engdawork Shiferaw,F,7,1B
+77,31,Meklit Yosef Kefyalew,F,7,1B
+78,32,Natan Eredaheng Kasa,M,7,1B
+79,33,Natanem Bamlaku Firew,F,8,1B
+80,34,Natanem Firesenbet, M,7,1B
+81,35,Natanem Gosa Andarge,m,7,1B
+82,36,Natanem Tsegaye Mersha,M,6,1B
+83,37,Natanem Yetnayet Fikru,M,6,1B
+84,38,Robel Alemayehu Mersha,M,7,1B
+85,39,Ruth Efrem Getachew,F,7,1B
+86,40,Saymen Belete ,M,7,1B
+87,41,Sifen Nigat Asefa,F,6,1B
+88,42,Tsiyon Yohanis Wendafrash,F,6,1B
+89,43,Yekidus Micael Getaneh,m,7,1B
+90,44,Yohanis Abate Kebede,M,7,1B
+91,1,Alazar Tagay Tefera,M,7,1C
+92,2,Amen Fikadu,M,6,1C
+93,3,Amen Sebsibe Biruu,F,6,1C
+94,4,Amen Tewodros Negasaa,M,6,1C
+95,5,Ananiya Atkilti Yimer,M,6,1C
+96,6,Ardi Asegid Teresa,F,8,1C
+97,7,Arsema Mulugeta Ayele,F,6,1C
+98,8,Ashenafi Addis Ayansa ,M,7,1C
+99,9,Atnatewos Aschalew ,M,6,1C
+100,10,Bernabas Eskindir Amare,M,7,1C
+101,11,Betselot Zelalem Hailu,F,6,1C
+102,12,Birutawit Abebe Tadese,F,7,1C
+103,13,Delina Getnet ,F,6,1C
+104,14,Edom Muluken Girma,F,7,1C
+105,15,Eyoab Teshale Gelan,M,7,1C
+106,16,Eyosiyas Aklilu Abebe,M,7,1C
+107,17,Eyosiyas Amanuel,M,6,1C
+108,18,Eyouel Tesfaye Negewo,,,1C
+109,19,Eyuel Adiss,M,6,1C
+110,20,Eyuel Belay Feyisa,M,7,1C
+111,21,Fikremariam Mesay Tesfa,M,6,1C
+112,22,Gediyon Habtamu,M,7,1C
+113,23,Heran Demis,M,6,1C
+114,24,Kidus Henok Shewawork,M,7,1C
+115,25,Kidus Solomon Tadese,M,7,1C
+116,26,Lewi Misgun,M,7,1C
+117,27,Liul Mekonen Beza,M,6,1C
+118,28,Merobi Tesfaye Beresa,F,7,1C
+119,29,Mersimoy Sintayehu,F,7,1C
+120,30,Mihretab Geremew,M,6,1C
+121,31,Mikiyas Getachew Daba,M,6,1C
+122,32,Misrak Melsew,F,7,1C
+123,33,Natnael Fikre,M,6,1C
+124,34,Natnael Getachew Solomon,M,7,1C
+125,35,Nazrawi Samson Shiferaw,m,7,1C
+126,36,Nob Asefa Debebe,M,6,1C
+127,37,Nolawit Surafel Shibru,F,6,1C
+128,38,Nuhamine Gebeyehu,m,7,1C
+129,39,Ruth Temesgen Adane,F,7,1C
+130,40,Samket Solomon Alemayehu,F,6,1C
+131,41,Soreti Kefene Kelbecha,F,6,1C
+132,42,Tinsae Abitew Belete,M,7,1C
+133,43,Yabsira Abera Siyoum,M,7,1C
+134,44,Yohanis Wibshet Sileshi,M,6,1C
+135,45,Yonas Birhanu Telila,M,6,1C
+136,1,Abeel Girmaa Yaami,dhi,,1-AO
+137,2,Afomi Eliyas Gashaw,du,7,1-AO
+138,3,Bereket Demis,,,1-AO
+139,4,Bisrat Melese Alemu,dhi,7,1-AO
+140,5,Eldaana Fitsum Tesfaye,du,6,1-AO
+141,6,Fenet Kebede Xafa,dhi,7,1-AO
+142,7,Fillensii Darajee Bidira,du,7,1-AO
+143,8,Firaa'ol Yooseef  Zalaqqaa,dhi,7,1-AO
+144,9,Galiilaa Tashooma Daba,du,6,1-AO
+145,10,Heran Tadele ,du,6,1-AO
+146,11,Iziraa Tasfaaye ,,,1-AO
+147,12,Jaalannee Shifara Tadala,du,,1-AO
+148,13,Jenenus Mekonin Alemu,,,1-AO
+149,14,Kena Kebede Xafa,du,7,1-AO
+150,15,Kenenisa Tariku Hambisa,Dhi,7,1-AO
+151,16,Kenna Dassaaleny Jebesa,dhi,7,1-AO
+152,17,Maaraamawit Daamisse,du,,1-AO
+153,18,Maarsimoy Ijiguu Damse,dhi,,1-AO
+154,19,Markonal Worku Dubale,dhi,7,1-AO
+155,20,Martaa Mookonin Yaa'ii,du,7,1-AO
+156,21,Milkeesaa Tollaa Birbirsa,du,6,1-AO
+157,22,Milkoof Taferi Abera,du,6,1-AO
+158,23,Nanaati Alamneh Midhagsa,du,7,1-AO
+159,24,Nanati Getahun Dhufera,du,,1-AO
+160,25,Nufsena Fikadu Mirkena,Du,7,1-AO
+161,26,Obsinan Solomoon Bogale,du,,1-AO
+162,27,Ofijal Habtamu Abebe,Dhi,7,1-AO
+163,28,Qaalkidaan musee Ayele,du,7,1-AO
+164,29,Rebira Mekonin Demise,dhi,7,1-AO
+165,30,Robera Abbara Asefa,dhi,,1-AO
+166,31,Ruut Dawit Hailu,Du,7,1-AO
+167,32,Samuel Abiyot,dhi,7,1-AO
+168,33,Saraa Mookonin Yaa'ii,du,7,1-AO
+169,34,Siinmoonaa Darajjee Dabalaa,Du,7,1-AO
+170,35,Simalee Tashoma Kasaye,du,7,1-AO
+171,36,Sinaaf Saaroon Fetu,,,1-AO
+172,37,Soliyana Tsegaye Baayisa,du,7,1-AO
+173,38,Waabii Mooti Amante,dhi,7,1-AO
+174,39,Yaaneet Taxaq Ide'o,du,7,1-AO
+175,40,Yodahee Mulugeta,dhi,6,1-AO
+176,1,Akiya Fekadu Hailu ,M,8,2A
+177,2,Amanueal Aregay Abera,M,9,2A
+178,3,Arsema Regasa Legese,F,8,2A
+179,4,Barkot Alemayehu Eshetu,F,7,2A
+180,5,Beminet Tadese  Shimelse,F,7,2A
+181,6,Betel Abebe Feleke,F,9,2A
+182,7,Betsinat Behail Niguse,F,7,2A
+183,8,Christian Akililu kebede,M,7,2A
+184,9,Edomiyas Yihenew Bezu,M,6,2A
+185,10,Ermiyas Abiy G/mariyam,M,7,2A
+186,11,Eyosiyas Dereje Abirham ,M,6,2A
+187,12,Eyueal Eliyas Kefiyalew,M,8,2A
+188,13,Feven Dagnechew Teshom,F,6,2A
+189,14,Hermon Bililign Tefera,F,7,2A
+190,15,Hermon Teshale Gelan,F,8,2A
+191,16,Layinet Tadele,F,7,2A
+192,17,Liya Tesfahun,F,8,2A
+193,18,Makbel  Addis Ayansa ,M,9,2A
+194,19,Meklit Bogale Yismaw,F,7,2A
+195,20,Meklit Wendosen G/Silase,f,9,2A
+196,21,Miciyas Mulubirhan,M,8,2A
+197,22,Nafnati Anudalem Getachew,F,7,2A
+198,23,Nahom Meberatu Amare,M,7,2A
+199,24,Naole Eshetu Kubi,M,7,2A
+200,25,Nardos Daniel Weltamo,F,6,2A
+201,26,Natanem Siyoum Eshetu,M,7,2A
+202,27,Natanihem Fasil,M,8,2A
+203,28,Natnael Biruk  Neda,M,8,2A
+204,29,Nuhamin Bogale Yesmaw,F,7,2A
+205,30,Nuhamin G/Medin Zereabrik,F,7,2A
+206,31,Nuhamin Mulat Mebrate,F,6,2A
+207,32,Segni kefyalew Gemechu ,F,10,2A
+208,33,Semayawit Endlekachew W/marim,F,8,2A
+209,34,Soliyan Dita Hailu,F,6,2A
+210,35,Soliyana Samuel Tsige,F,8,2A
+211,36,Wanofi Habtamu,F,7,2A
+212,37,Yabisra Milikyas Tefera,M,8,2A
+213,38,Yafet Wasenyeleh,M,8,2A
+214,39,Yared Bogale Bekele,M,7,2A
+215,40,Yididiya Yirgalem Legese,M,8,2A
+216,41,Yohanan Dejene Abera,M,6,2A
+217,42,Yohanis Solomon Gelata ,M,8,2A
+218,43,Yosef Dawit Melese,M,9,2A
+219,1,Abenezer Fishum Bekele,M,7,2B
+220,2,Abenzer Gemechu  Wesenu ,M,7,2B
+221,3,Amanawit Miliyon kasahun,F,7,2B
+222,4,Amanueal Abiyot Urigesa,m,7,2B
+223,5,Aminadab Temesgen Dejene,M,7,2B
+224,6,Ansif tariku tesfaye,9,F,2B
+225,7,Aron Chernet Siyoum,M,10,2B
+226,8,Dagim Miliyon kebede,M,8,2B
+227,9,Dagimawi Abera Bejiga,M,6,2B
+228,10,Daneal mulugeta Serawit,M,7,2B
+229,11,Daniel Selomon Fikadu,M,,2B
+230,12,Darik Eliyas Aschalew,M,7,2B
+231,13,Eldan Wendimagen Teka,F,7,2B
+232,14,Eldana Habtamu K/Wengel,F,9,2B
+233,15,Eldana Mebiratu Bogale,F,7,2B
+234,16,Eliyas Temam Nuri,M,7,2B
+235,17,Eyu Alemayehu Geta,M,8,2B
+236,18,Eyueal Tsegay Feysa,M,7,2B
+237,19,Fenet Abebe Assefa,F,7,2B
+238,20,Hana Demelash Adugna,F,7,2B
+239,21,Hilena Tamirat ketsela ,F,7,2B
+240,22,Hilina Abiy  Bekele,F,7,2B
+241,23,keab Samuel  Yeshewa woreke ,M,7,2B
+242,24,Kebron Miliyon Kebede,F,7,2B
+243,25,Liule Ashenafi Fikadu ,M,7,2B
+244,26,Matiwose Yohanise Shinga,M,7,2B
+245,27,Meklit Emishaw  Teshome,F,7,2B
+246,28,Meti Shewareg Shiferaw,F,8,2B
+247,29,Mikiyas Lijalem Adal,M,8,2B
+248,30,Nardos Mekuria Regasa,F,,2B
+249,31,Natan Solomon H/Mariyam ,M,7,2B
+250,32,Natanim  Miliyon Tsegaye,M,8,2B
+251,33,Natanim Amitate legese,F,7,2B
+252,34,Oliyad Worku Lelisa,M,9,2B
+253,35,Rakeb Zerifu Biruk,F,6,2B
+254,36,Redate Abushu Bekele,F,7,2B
+255,37,Robel Dejene Feyisa,M,6,2B
+256,38,Soliyan  Liule Birhanu ,F,7,2B
+257,39,Tsion Fikadu Hailu,F,7,2B
+258,40,Veronka Solomon Alemu,F,7,2B
+259,41,Yared Geleta  Wendimu ,M,8,2B
+260,42,yeabsira Tariku Tesfaye,9,M,2B
+261,43,Yeabsira Tekeste  Ayu,M,7,2B
+262,44,Yididiya Habtamu K/Wengel,m,9,2B
+263,1,Abenzer Yalew Bila,M,8,2C
+264,2,Aklesiya Tsegaye T/Tsadik,F,7,2C
+265,3,Amanuel Ashenafi  G/kidan,M,8,2C
+266,4,Amanuel Tadele Kasaye,M,8,2C
+267,5,Amanuel Tsegaye Abebe,m,7,2C
+268,6,Barakel Binayam W/Argay,M,8,2C
+269,7,Biruk Zenebe Bogale,M,8,2C
+270,8,Birukitayit Ayetenew  Demelash,F,7,2C
+271,9,Biruktayit Habitamu  Demeke,F,7,2C
+272,10,Bitaniya Biniyam Moges,F,8,2C
+273,11,Dagim Efrem Alemu,M,9,2C
+274,12,Dagim Tesfaye Mengesha,M,9,2C
+275,13,Edlawit Wendosen Tsegaye,F,7,2C
+276,14,Efrata Tiumelisan Belay,F,8,2C
+277,15,Eldana Shimels Fantu,F,8,2C
+278,16,Elishadaye H/micael Musema,f,8,2C
+279,17,Eliyana Abebaw Bekele,F,8,2C
+280,18,Eliyana Binayam W/Argay,F,8,2C
+281,19,Fikir Genene Abebe,M,9,2C
+282,20,Hana Tasew Assefa,F,8,2C
+283,21,Haset Yonas  Niguse,F,8,2C
+284,22,Hemen Ashebir Tegegn,F,8,2C
+285,23,Hilina Miliyon Fantu ,F,8,2C
+286,24,Kirubel Binyam  Bisrat,M,7,2C
+287,25,Makibel wendimu Desta,M,8,2C
+288,26,Marki Shawel Engida,F,7,2C
+289,27,Matiyas Nebiru Bayu ,M,8,2C
+290,28,Meba Zewdeneh Debebe,M,7,2C
+291,29,Meklit Birhanu Tamirat,F,8,2C
+292,30,Midrash Devid Yoda,M,8,2C
+293,31,Nanati Genene Lema,F,7,2C
+294,32,Nanati Tilahun Legese,F,8,2C
+295,33,Nardose Sitotaw Abebe,F,8,2C
+296,34,Natanem Digafe Urgesa,M,8,2C
+297,35,Natanem Tedi Worku,m,,2C
+298,36,Natanim Samueal Awegichew,M,7,2C
+299,37,Natanim Tewodros Shiferaw ,M,8,2C
+300,38,Natinael Daniel Janika,M,8,2C
+301,39,Rakeb Silesh Hailu,F,7,2C
+302,40,Rediet Fikadu Zewide,F,8,2C
+303,41,Silefiker Tadele Kasaye,F,8,2C
+304,42,Soliyana Daniel Zeleke,F,8,2C
+305,43,Tsion Bezaworke Teklu,F,8,2C
+306,44,Tsiyon Fikadu Yelma,F,7,2C
+307,45,Yafet Adane kebede,M,8,2C
+308,46,Yakob solomon Zenebe,M,8,2C
+309,47,Yamilak sinke Tesma,m,8,2C
+310,48,Yeabsira Agimase Tesema ,F,8,2C
+311,49,Yelkale Esrael Solomon,M,8,2C
+312,50,Yordanos Getachew Alemu,F,9,2C
+313,51,Yostina Getahun Tefera,F,8,2C
+314,1,Batsaloot Katamaa Tulluu,du,7,2-AO
+315,2,Beeteliheem Tashoomaa Taffarraa,du,9,2-AO
+316,3,Bekem Girma Lema,Dhi,8,2-AO
+317,4,Eliyaas Abiyoot Hayiluu,dhi,7,2-AO
+318,5,Feeneet Isheetuu Darrasaa,du,7,2-AO
+319,6,Fira'ol Getahun,Dhi,8,2-AO
+320,7,Moonerraa Yaadatee Roobaa,dhi,7,2-AO
+321,8,Naanaatii Geetinnat Midhaksaa,du,6,2-AO
+322,9,Naataaneem Tashoomaa,dhi,9,2-AO
+323,10,Naatan Yaabbii Kabbadaa,dhi,7,2-AO
+324,11,Saaroon Beezaa Abiyyi,du,7,2-AO
+325,12,Yaared Damiisu,dhi,8,2-AO
+326,13,Yoordaanoos Caalaa Tashoomaa,du,8,2-AO
+327,1,Abenezer Mulugeta Ashenafi,M,7,3A
+328,2,Abigiya Tedila Tufa ,F,7,3A
+329,3,ADONAY BIRHANU Tafese,M,9,3A
+330,4,Amen Getenet Sime,M,8,3A
+331,5,Amen Lema Tulu,M,6,3A
+332,6,Amen Mesfin Kifle,M,8,3A
+333,7,Amnen Solomon Alemayehu,M,8,3A
+334,8,Ansif Chali Fikadu,F,7,3A
+335,9,Betelhem Chuchu Welde ,F,8,3A
+336,10,Betelhem Tilahun Zergaw,F,,3A
+337,11,Biruh Tesfaye Yebirhanu,F,8,3A
+338,12,Dagim Belete H/Micael,M,9,3A
+339,13,Dagim Dejenu Biruk ,M,6,3A
+340,14,Dagime Wendesen Habitu ,M,9,3A
+341,15,Darik Teshome Tekile,F,6,3A
+342,16,Dawit Shimlse Zeleke,M,8,3A
+343,17,Eden Yetagesu Zewge ,F,8,3A
+344,18,Eldana Efrem Getachew,F,9,3A
+345,19,Ermiyas Nigusu Assefa,M,8,3A
+346,20,Eyosyas Birhanu Eshetu,M,8,3A
+347,21,Eyueal Lema Kebede ,M,7,3A
+348,22,Fiker Ashenafi Adane,M,7,3A
+349,23,Fireselam Teshome Tesfaye,F,8,3A
+350,24,Firezer Teshome Tesfaye,M,8,3A
+351,25,Haset Getu Yirdaw,F,7,3A
+352,26,Jenenus Sintayehu Bekele,F,9,3A
+353,27,Kalkidan Minalu Werku ,F,9,3A
+354,28,Makibel Yirgu Tekola,M,9,3A
+355,29,Markonal Biniyam Abebe,M,8,3A
+356,30,Mastewal Ambese Tesfaye,F,8,3A
+357,31,Meklit Dangachew Girma,F,7,3A
+358,32,Mhiretab Aserat Bekele,F,7,3A
+359,33,Micyas Asefa Abate ,M,7,3A
+360,34,Nafiyad Bekele Jima,M,7,3A
+361,35,Natanim Getahun Tesfaye ,M,10,3A
+362,36,Ruth Dereje Zenebe,F,7,3A
+363,37,Saron Abreham  Moges,F,8,3A
+364,38,Shalom Fikadu Kasa,F,8,3A
+365,39,Sinkana Tadele Yitbarek,F,8,3A
+366,40,Soliyan Tewodros Bedasa ,F,8,3A
+367,41,Tsinat Yohanise  Yilema ,F,7,3A
+368,42,Tsiyon Wendimeneh Demisse,F,7,3A
+369,43,Yafet Demelash Mekonin,M,9,3A
+370,44,Yared Zerihun Desta,M,6,3A
+371,45,Yididiya Solomom Tesema,F,7,3A
+372,46,Yohanis Daniel Liul,M,11,3A
+373,47,Yordanos Micael ,M,9,3A
+374,48,Zemicael Gezu Sisay,M,7,3A
+375,1,Abinet Mekuria Aweke,M,9,3B
+376,2,Amanuel Belay Solomon,M,9,3B
+377,3,Arisema Abayenh  Ketema,F,8,3B
+378,4,Arsema Mebratu Teshome,F,8,3B
+379,5,Arsema Yeshitla Hailu,F,8,3B
+380,6,Bereket Dereje Yismaw,M,8,3B
+381,7,Bereketeab Ashenafi Wedajo,M,9,3B
+382,8,Betelhem Mengistu Mekete,F,9,3B
+383,9,Betselot Fikadu Bekele,F,8,3B
+384,10,Biniyam Jambo  Bihonegn,M,9,3B
+385,11,Biniyam Zekariyas Wubshet,M,10,3B
+386,12,Chrstian Daniel Workineh,F,8,3B
+387,13,Dagimawi Ayefokru Getachew,M,8,3B
+388,14,Dagmawit Aklilu Aschalew,F,,3B
+389,15,Danat Yirga  Teka,F,10,3B
+390,16,Eldana Mezgebe Hagos,F,9,3B
+391,17,Eliyana Ketsela Legese,F,8,3B
+392,18,Emana Abiyot Abiza,F,9,3B
+393,19,Ermiyas Adisu Yayeyirad,M,9,3B
+394,20,Fiker Getu ChiChayebelu,M,8,3B
+395,21,Haleluya Mechal W/Gebriel,F,9,3B
+396,22,Haset Solomon Gemechu,F,8,3B
+397,23,Kaleab W/semayat Azene,M,10,3B
+398,24,Leul Yishak Abrehame,M,9,3B
+399,25,Lielina Bekele Yilma ,F,8,3B
+400,26,Madan Yirga Teka,F,10,3B
+401,27,Nahom Genene Lema,M,9,3B
+402,28,Nanati Gemechu Abera,F,9,3B
+403,29,Naomi Meseret Humter,F,9,3B
+404,30,Natanal Sisay Tefera,M,8,3B
+405,31,Natanim Ashebir Seyoum ,M,8,3B
+406,32,Natanim Yared Deribe,M,8,3B
+407,33,Natnael Abiy G/mariam,M,8,3B
+408,34,Natnael Nigatu Getachew,M,8,3B
+409,35,Nazrawi Geremew Mekibib,M,9,3B
+410,36,Nebiyu Mesay Hebena,M,8,3B
+411,37,Salisawit Webishet Teshom,F,8,3B
+412,38,Saron  Megerisa Siachi ,F,9,3B
+413,39,Selam Mesfin Adamu,F,9,3B
+414,40,Sitotamariam Mesay Zeleke ,M,9,3B
+415,41,Soliyana Demelash Teshome,F,8,3B
+416,42,Tseada Muluneh Tesema,F,9,3B
+417,43,Wengele Matiwos Minelhalew,F,9,3B
+418,44,Yabets Ashenafi Jemanah,M,8,3B
+419,45,Yabsira Aklilu Niguse,M,8,3B
+420,46,Yared Alemayehu Bekele ,M,10,3B
+421,47,Yonatan Dawit Habte,M,8,3B
+422,1,Abel Girum  Ayele  ,M,6,3C
+423,2,Abenezer Endalamaw  H/Silase,M,9,3C
+424,3,Abesala Debebe  Reta ,F,8,3C
+425,4,Abigiya Abebaw Mezgebu ,F,8,3C
+426,5,Adoniyas Zebenay Haile,M,9,3C
+427,6,Akiya Mekuriya Tamire,M,7,3C
+428,7,Alazar Mesfin Haile ,M,8,3C
+429,8,Amen Fikru w/mariam ,F,8,3C
+430,9,Ananiya Mekonin G/Tsadik,,9,3C
+431,10,Barekiwat Shegnew Getachew,F,8,3C
+432,11,Beminet Dawit  Kebede ,F,8,3C
+433,12,Betselot Gizachew Misganaw,F,8,3C
+434,13,Biniyam Damtew Gemechu,M,10,3C
+435,14,Dawit Girma Hailu,M,10,3C
+436,15,Eldana Tesfa Tsige ,F,10,3C
+437,16,Eleni Derege Adefris,F,9,3C
+438,17,Eyuel Taye Girma,M,8,3C
+439,18,Fiker Tadese  Abate ,F,8,3C
+440,19,Hamere Assefa Debebe,F,8,3C
+441,20,Hamere Tamirat Meskele,F,8,3C
+442,21,Kaleab Muluken Asaminew,M,8,3C
+443,22,Kidus Yosef Alemayehu,M,9,3C
+444,23,Liul Solomon Abebe,M,10,3C
+445,24,Maramawit Dendir Aga,F,9,3C
+446,25,Markan Sileshi Senbeto,F,9,3C
+447,26,Mekilit Tegenu Tulu ,F,9,3C
+448,27,Meklit Rinato Yosef,F,9,3C
+449,28,Meklit Tamirat Belay ,F,8,3C
+450,29,Mikiyas Worku Guddiso,M,8,3C
+451,30,Nardos Wendowen G/Silase,f,9,3C
+452,31,Natnael Tadese Girma ,M,9,3C
+453,32,Nuhamin Adew Halid,F,10,3C
+454,33,Redeat Endale Negash,F,8,3C
+455,34,Samrawit Eshetu Mulugeta,F,9,3C
+456,35,Sofoniyas Fikadu Endale ,M,9,3C
+457,36,Soliyana Fasile Tamene ,F,8,3C
+458,37,Soliyana Tewodros Shiferaw,F,9,3C
+459,38,Solomon Bahiru Muleta,M,11,3C
+460,39,Yared Tegenu Beyene,M,8,3C
+461,40,Yenoh Kalkidan Abebe,M,8,3C
+462,41,Yonatan Mola Madebo,M,9,3C
+463,42,Yordanos Awegicha Beyene,F,9,3C
+464,43,Yordanose Tesfaye Desalegn,M,10,3C
+465,1,Atinaaf Baldaa Jimaa,dhi,7,3-AO
+466,2,Bultii Shuumii Mangistuu,dhi,8,3-AO
+467,3,Fasika Yehalashet Tesema,du,10,3-AO
+468,4,Fiqir Baqqalaa Mokonniin,DU,10,3-AO
+469,5,Firaa'ol Milishaa Tufaa,dhi,8,3-AO
+470,6,Heliyaana Giruum Tefarii,Du,8,3-AO
+471,7,Jennenus Iddoosaa Taaddasaa,dhi,7,3-AO
+472,8,Jiruu Shuumii Mangistuu,du,8,3-AO
+473,9,Keekiyyaa Doojii Bayyanaa,dhi,8,3-AO
+474,10,Kennaa Damissee Daggaffa,dhi,9,3-AO
+475,11,Kiyyaa Salamoon Jimaa,dhi,7,3-AO
+476,12,Meeroob Tolaa Birbirsaa,du,7,3-AO
+477,13,Naa'ol Salamoon Boggaalaa,dhi,,3-AO
+478,14,Naatnaa'el Geetaahun Alamuu,dhi,7,3-AO
+479,15,Nahil Deneke Teklu,Du,9,3-AO
+480,16,Obsiinan Daawiit Mulgeetaa,dhi,8,3-AO
+481,17,Saanyii Dinqu Sabbooqaa,Dhi,10,3-AO
+482,18,Yoonaas Balaay Mekonnin ,Dhi,10,3-AO
+483,1,Abel Ashenafi Alemu,M,10,4A
+484,2,Abemelek Gezu Nadew ,M,9,4A
+485,3,Abenezer Tadele ,M,10,4A
+486,4,Alazar Mulat Mebrate,M,10,4A
+487,5,Amanuel Dereje Megos,M,9,4A
+488,6,Ananiya Amha Fantahun ,M,10,4A
+489,7,Aron Habtamu Kumalo,M,9,4A
+490,8,Atinasiya Befekadu W/Semayat,F,9,4A
+491,9,Atnasiya Adiss Mengesha,F,8,4A
+492,10,Besufikad Bekele Welde ,M,10,4A
+493,11,Dagmawit Esayas Ayele,F,10,4A
+494,12,Derartu Degefa Erko,F,9,4A
+495,13,Edlawit Shewangizaw Niguse,F,11,4A
+496,14,Efirata Meles Ayalew ,F,10,4A
+497,15,Efrata Melke Firde,F,10,4A
+498,16,Efrata Teferi Alemu,F,10,4A
+499,17,Elidan Abayeneh Alemu,F,10,4A
+500,18,Elsabet Danieal Tolosa,F,10,4A
+501,19,Emrakel Yohanis Getahun,F,9,4A
+502,20,Eyosiyas Brikneh Aklilu,M,10,4A
+503,21,Keberon Getinet Belay,F,10,4A
+504,22,Kenean Girma,9,9,4A
+505,23,Keti Naol Negewo,F,9,4A
+506,24,Kidus Endale  Bekele,M,10,4A
+507,25,Kiya Kefiyalew Gemechu,F,11,4A
+508,26,Liul Habtamu Getu,M,10,4A
+509,27,Maedot Aschalew Minlikalew,,11,4A
+510,28,Micael Abebe Alemu ,M,10,4A
+511,29,Mihiret Muluken Girma,9,9,4A
+512,30,Nahom Alemayehu Getaneh,M,10,4A
+513,31,Nanati Abiyot Ashenafi,F,10,4A
+514,32,Nuhamin Tsegaye Tesema,F,10,4A
+515,33,Saron Kibebew  Biru ,F,10,4A
+516,34,Semani Mekuriya Gizawe,M,10,4A
+517,35,Solome  Dagim  Asefa,F,10,4A
+518,36,Tiyobsta Getahun Amene,F,10,4A
+519,37,Yabsira Wegene Siyoum ,M,10,4A
+520,38,Yared Gosaye Alemu,M,12,4A
+521,39,Yididya Akilu Zewde ,F,11,4A
+522,40,Yohanis Anilye Kifle,M,9,4A
+523,1,Abemelek Digafe Getachew ,M,9,4B
+524,2,Abigiya Worku Mulaw ,F,10,4B
+525,3,Abisira Sebisebe Abebe,F,9,4B
+526,4,Aresma Daniel Bekele,F,10,4B
+527,5,Aron Mekonin Binyam ,M,10,4B
+528,6,Atinasiya Teferi Fikadu,F,9,4B
+529,7,Betel teferi Elfineh,F,10,4B
+530,8,Betselot Demeke Dana,F,10,4B
+531,9,Daniel Demoz Fantahun,M,9,4B
+532,10,Edlawit Milion Hailu,F,9,4B
+533,11,Eldana Tewodros Asrat,F,9,4B
+534,12,Eyosiyas Tesfu Charu,M,9,4B
+535,13,Fishatsyon Dejene Abera,M,9,4B
+536,14,H/Mariam Ayelew Kinfe,F,10,4B
+537,15,Lamirot  Biniam Sime,F,10,4B
+538,16,Mahilet Asegede Sisay ,F,11,4B
+539,17,Mekides w/Senibet Sere,F,8,4B
+540,18,Meron Dagim Zewdu,F,10,4B
+541,19,Miciyas Dubale Abate,M,9,4B
+542,20,Nahom Ashenafi G/Kidan,M,10,4B
+543,21,NahomTadese Kebede,M,10,4B
+544,22,Nardos  Tsegaye Negash,F,8,4B
+545,23,Nataniam Mirtu Guta ,M,9,4B
+546,24,Nataniyal Wesenyeleh Admasu,,10,4B
+547,25,Natnael Sintayew Lulseged,M,9,4B
+548,26,Nazrawit Cheru Agonafir ,M,12,4B
+549,27,Nhimya Fikadu Hailu,M,11,4B
+550,28,Nuhamin Zenaneh Bayu,F,10,4B
+551,29,Rahel Abebe Derib,F,10,4B
+552,30,Rediet Moges Zenebe,F,10,4B
+553,31,Samuel Shigute Dibaba,m,11,4B
+554,32,Sara Abiyot Hailu,F,10,4B
+555,33,Soliyana Adisu Tefera,F,9,4B
+556,34,Soliyana Desalegn Senbetu,F,8,4B
+557,35,Surafel Ashenafi Tilahun,M,10,4B
+558,36,Tomas Mulubrham Dresa,M,10,4B
+559,37,Yafet Anteneh Aschalew ,M,9,4B
+560,38,Yakob Zenaneh Bayu,M,9,4B
+561,39,Yibela Melaku Talemaw,F,10,4B
+562,40,Yokabed Tesfaye Kifle,F,10,4B
+563,41,Yonase  Tewodrose  H/micael,M,9,4B
+564,1,Abigiya Tamirat Worku,F,9,4C
+565,2,Abigiya Zerfu Biruk,F,8,4C
+566,3,Adoniyas Abebe Tekeste ,M,10,4C
+567,4,Adoniyas Sofoniyas Adiss,M,9,4C
+568,5,Ahimed Ali Ahimed,M,10,4C
+569,6,Alazar Yetages Behabitu,M,9,4C
+570,7,Bezawit Andualem Habitamu ,F,9,4C
+571,8,Birikti Gezahegn Getaneh,F,9,4C
+572,9,Biruktayit Zerihun,F,9,4C
+573,10,Bitanya Sintayehu Tsegaye,F,8,4C
+574,11,Cristian Daniel Kasa,M,9,4C
+575,12,Dawit Mamo T/Yohanis ,M,9,4C
+576,13,Eldana Mesfin Siyoum,F,8,4C
+577,14,Eldana Yibekal Admasu,F,8,4C
+578,15,Esayas Tsegaye Shibeshi,M,11,4C
+579,16,Etsube Tariku Wegene,F,9,4C
+580,17,Eyoseyas Adis Belay,M,10,4C
+581,18,Ezana Dereje Abebe,M,12,4C
+582,19,Firesenay Abiyot Bayu,11,F,4C
+583,20,Haset Wendsen Melese,10,F,4C
+584,21,Kalkidan Tsegaye T/Tsadik,F,8,4C
+585,22,Kena Abate Alemayehu,M,8,4C
+586,23,Keneferigib Biruk Hailu,M,9,4C
+587,24,Kidist Shefiraw  Kumsa,F,9,4C
+588,25,Kidus Kalikidan Asefa,M,8,4C
+589,26,Lulie Solomon Bekele,M,9,4C
+590,28,Mahider Gezahegn Getachew,8,F,4C
+591,29,Micyas Fikadu  Getachew ,M,10,4C
+592,30,Mihiret Genene Abebe,F,10,4C
+593,31,Nahom Zerihun Engdawork,M,9,4C
+594,32,Nanati Tesfaye Sahele,F,9,4C
+595,33,Natanim Kibrom Kasaye,M,9,4C
+596,34,Natnael Gezaheng Tegegn,M,8,4C
+597,35,Natnael Shawel  Siyoum,F,8,4C
+598,36,Ruth Mesafent Bezu ,F,9,4C
+599,37,Tesfamicael Girum Yitagesu,M,10,4C
+600,38,Tinibet Esayas W/Mariam,F,9,4C
+601,39,Tsinat Temsegen Adane,F,8,4C
+602,40,Tsiyon Fisha H/micael ,F,8,4C
+603,41,Yohana Shimels Tefera,F,8,4C
+604,1,Abenezer Lema Kebede,M,12,5A
+605,2,Abel Aregaye Abera,M,12,5A
+606,3,Adonay Tesema Babu,M,10,5A
+607,4,Afomiya Birhanu Eshetu,F,11,5A
+608,5,Amanuel Fasil Birhanu,M,10,5A
+609,6,Amen Dejene Hailu,M,10,5A
+610,7,Azariya Begasha Belayneh,M,11,5A
+611,8,Beminet Aytenew Demelash,F,11,5A
+612,9,Betselot Solomon Gebire,F,11,5A
+613,10,Bitanya Belete Gebire ,F,11,5A
+614,11,Dagim Awilachew Tirfe ,M,11,5A
+615,12,Dagim Kefene Kelbecha,M,10,5A
+616,13,Dagmawit Getachew Udo,F,10,5A
+617,14,Eldana Getu Yirda,F,11,5A
+618,15,Eldana Haile Phetiros,F,11,5A
+619,16,Eldana Kibrom Kasay,F,11,5A
+620,17,Elshaday Eliyas Ketsela,M,10,5A
+621,18,Ermiyas Abidulkadir Seyid,M,12,5A
+622,19,Ermiyas Tegene Kasu,M,10,5A
+623,20,Esayas Dejene Hailu ,M,10,5A
+624,21,Eskel Berihun Tsegaye,M,11,5A
+625,22,Eyuel Shita Teklemarm,M,11,5A
+626,23,Fenet Hailu Dinka ,F,11,5A
+627,24,Kalkidan Gizaw Demise,F,11,5A
+628,25,Kiduse Wendishet Asnake,M,13,5A
+629,26,Kirubel Yebekal Admasu,M,12,5A
+630,27,Mahder Melaku Welde,M,13,5A
+631,28,Meron Getahun Mengiste,F,10,5A
+632,29,Meswate Abereham Zewdu,M,12,5A
+633,30,Milki Bekele  Jima,M,12,5A
+634,31,Miraf Shawel  Mengesha,F,11,5A
+635,32,Nahil Mengistu Niguse,F,10,5A
+636,33,Nahom Teklu Bekele,M,13,5A
+637,34,Natanim Ayefokiru Getachew,M,11,5A
+638,35,Natnael Mesfin Sime,M,11,5A
+639,36,Samnanten Abiyot Asefa,M,11,5A
+640,37,Tsion Solomon Tesema,F,12,5A
+641,38,Yabisra Bahiru Ketema ,F,12,5A
+642,39,Yabisra Girma Feten,M,10,5A
+643,40,Yabisra Mesfin Biruk ,M,11,5A
+644,41,Yonatan Tsegaye Tesema,M,12,5A
+645,42,Yostina  Gezu Eshete,F,10,5A
+646,1,Abel Zerihun Bekele,M,11,5B
+647,2,Abenezer Solomon Tekle,M,10,5B
+648,3,Abraham Taye Mekonin ,M,,5B
+649,4,Arefeayen Birhane Kidane,M,9,5B
+650,5,Arsema Snishaw Genet,F,9,5B
+651,6,Asteway Abera Bejiga,M,10,5B
+652,7,Besufikad Yonas Kumano,M,11,5B
+653,8,Betelhem Behailu Abose,F,12,5B
+654,9,Betelhem Tadese Behonegn,F,9,5B
+655,10,Beza Birhanu Feyera,F,10,5B
+656,11,Bilen  Mebiratu Teshome,F,9,5B
+657,12,Daniel Mengistu Zenebe,M,9,5B
+658,13,Edomisa Natinael Tegene ,F,10,5B
+659,14,Eldana Behailu Shiferaw,F,10,5B
+660,15,Eldana Bogale Girma,F,9,5B
+661,16,Elida Alemu Bogale,F,10,5B
+662,17,Eyuel Solomon Gelan,M,10,5B
+663,18,Ezira Miliyon Kebede,M,9,5B
+664,19,Gerizan Girma Tadesse,F,10,5B
+665,20,kalkidan Tekest  Taye,F,11,5B
+666,21,Kenean Firesew Bekele,M,11,5B
+667,22,Kidan Belete Amtataw,M,11,5B
+668,23,Kidus Zeraye Tenaw,M,10,5B
+669,24,Lidya Ayalew Teshome,F,12,5B
+670,25,Lidya Shewangizaw Made,F,11,5B
+671,26,Lina Phetiros Lema,F,9,5B
+672,27,Meklit Mekonin  Sime,F,10,5B
+673,28,Nahom Fikiru Beyene,M,10,5B
+674,29,Nahom W/Mariyam Mekuriya ,M,10,5B
+675,30,Nuhamin Dender Bireda,F,10,5B
+676,31,Rediet Degefu  Temesegen ,F,9,5B
+677,32,Ruhama Fayid Endris,F,11,5B
+678,33,Sayat Dereje Asefa,F,11,5B
+679,34,Soliyana  worku Gudiso,F,10,5B
+680,35,Tsinat Endalkachew Worku,F,10,5B
+681,36,Tsinukal Daniel Asres,F,11,5B
+682,37,Yabisra Sintayehu Eshetu,M,9,5B
+683,38,Yared Mebiratu Yesihak ,M,10,5B
+684,39,Yohanise Sehalu  Girma ,M,9,5B
+685,40,Yordanos Adane Tefera,F,10,5B
+686,1,Abayneh Feleke Worku,M,11,5C
+687,2,Bemnet Sintayehu Defar,M,13,5C
+688,3,Bersabeh  Hailu Demisse,F,9,5C
+689,4,Betelhem Agonafir Shiferaw,F,10,5C
+690,5,Betselot Tamira Ketsela,F,10,5C
+691,6,Biruk Mulugeta Ayele,M,12,5C
+692,7,Dureti Degefa Erko,F,10,5C
+693,8,Ebise Kumsa  Mamo,F,10,5C
+694,9,Edlawit Habitamu Mekonnen ,F,10,5C
+695,10,Edlawit Kebede Habtamu,F,10,5C
+696,11,Efrata Tesfahun Hailu,F,9,5C
+697,12,Enkubahri Ashenafi Fikadu,m,11,5C
+698,13,Esrael Shegaw Ketsela,M,11,5C
+699,14,Fenet Endashaw Ejigu,F,10,5C
+700,15,Hana ShimelIs  Regasa ,F,9,5C
+701,16,Hiel Mulugeta Tiruneh,,F,5C
+702,17,Kalkidan Ayalew ,F,11,5C
+703,18,Kidus Abayneh Alemu,M,12,5C
+704,19,Liul Basazin Tadese ,M,10,5C
+705,20,Mhiret Fanta Girum,F,10,5C
+706,21,Mikiyas Addis G/meskel,M,10,5C
+707,22,Nahom Abayneh Mekonen,M,10,5C
+708,23,Nahom Assefa Getachew,m,10,5C
+709,24,Nahom Dereje Adefrs,M,10,5C
+710,25,Nahom Teshome Abera,M,9,5C
+711,26,Naole Tasaw Assefa,M,10,5C
+712,27,Natan Tesfaye Negawo,M,10,5C
+713,28,Natnael Habtamu Desalegn,M,11,5C
+714,29,Sifen Beza Abiye,F,10,5C
+715,30,Soliyana Adinan Kamile,F,12,5C
+716,31,Tigist Belachew Belete ,F,10,5C
+717,32,Tinsae Gezahegn Urgesa,F,12,5C
+718,33,Tsinat Alemayehu Abebe ,F,10,5C
+719,34,Tsinat Motuma Tesfaye,F,10,5C
+720,35,Yabisra Hilawi Mulugeta,F,9,5C
+721,36,Yididiya Meberatu Ambaye,F,11,5C
+722,37,Yodahe Milion Hailu ,M,9,5C
+723,38,Yohanise Abiy Bekele,M,9,5C
+724,39,Yonas Tsegaye Aguni,M,11,5C
+725,40,Yosef Kasahun Tesfaye,M,10,5C
+726,41,Zablon Mehamed Seyid,M,10,5C
+727,42,Zekariyas Abebe Tadese ,M,9,5C
+728,1,Abreham Alem Aschalew,M,11,6A
+729,2,Amanuel Aschalew Asefa,M,12,6A
+730,3,Amen Antenhe Seyfu,M,12,6A
+731,4,Arisema Belete Niguse ,F,12,6A
+732,5,Arisema Endale Tilahun ,F,12,6A
+733,6,Betel Aklilu Abebe,F,12,6A
+734,7,Betselot Solomon Belhu,F,12,6A
+735,8,Dagim Ashebir Tegegn,13,12,6A
+736,9,Dagimawi Desta Gedeye,M,11,6A
+737,10,Dagimawit Lulseged Gizaches,F,11,6A
+738,11,Daneal Sebisebe Abebe,M,12,6A
+739,12,Edom  Tewodros Kelemu,M,11,6A
+740,13,Eldana Binyam Asefa,F,11,6A
+741,14,Emawos Akililu Niguse ,M,12,6A
+742,15,Ermiyas Hayelom Amare,m,12,6A
+743,16,Eyerus niguse Wedaje,M,12,6A
+744,17,Gebirelawit Shemelse Tefera,F,12,6A
+745,18,Henok Aregaye Abera,M,14,6A
+746,19,Jonatan Samuel  Awigichew,M,11,6A
+747,20,Kidus Biniyam Yemaneh,m,12,6A
+748,21,Liul Tadele Fikadu,m,13,6A
+749,22,Liule Fikede Habite ,M,11,6A
+750,23,Maedot Abebe Kebede,M,14,6A
+751,24,Mahilet Desalegn Tufa,F,11,6A
+752,25,Meklit Mesfin ,F,11,6A
+753,26,Meklit Yetnayet Fikru,F,11,6A
+754,27,Mhiret Begashew Sintayehu ,F,11,6A
+755,28,Micael Fisha Tekile,M,11,6A
+756,29,Mirag Tewodros Demissie,F,11,6A
+757,30,Oliyad Dechasa ,M,11,6A
+758,31,Samuel Shiferaw Ameha,M,12,6A
+759,32,Saron Abay Kifle,F,12,6A
+760,33,Soliyana Yirgalem Abibe,F,12,6A
+761,34,Sosna Tekeste Ayu ,F,12,6A
+762,35,Tekleab Aweke  Legese ,m,14,6A
+763,36,Tinbit Daniel  Aweke ,F,11,6A
+764,37,Yefiker Azmera Derese,M,12,6A
+765,38,Yididiya Lema Belda,F,12,6A
+766,39,Yididya Daniel Negash,F,10,6A
+767,40,Yohanis Tesfahu Abebe ,M,12,6A
+768,41,Yonatan Akililu w/Amanueal ,M,11,6A
+769,42,Yositina Befekadu W/semayat,F,10,6A
+770,43,Zerubabel Nigusu Belay,M,10,6A
+771,1,Abel Teferi Sisay,M,13,6B
+772,2,Abirham Mekonin Demise,M,11,6B
+773,3,Achalu Zewde Dibaba ,M,11,6B
+774,4,Amanuel Tewodros Siyoum,M,12,6B
+775,5,Bereket Sisay Tefera,M,12,6B
+776,6,Betelhem Demelash Teshome,F,13,6B
+777,7,Betselot Buzayehu ,F,11,6B
+778,8,Bilen Zenabu Getachew,F,11,6B
+779,9,Eden Kibebew Biru ,F,11,6B
+780,10,Edlawit Zerihun Ayele,F,13,6B
+781,11,Efrat Atikelt Yimer,F,10,6B
+782,12,Eyob Getachew ,M,13,6B
+783,13,Fenet Getahun Dhufera ,F,11,6B
+784,14,Firewengel Tekabe ,F,13,6B
+785,15,Hale Shawaregaw Shiferaw,F,11,6B
+786,16,Juliyana Legese Tsegaye,F,12,6B
+787,17,Liul Dawit Hailu,M,12,6B
+788,18,Loza Amidebirhan Tayitu,F,11,6B
+789,19,Mieraf AlemaYehu Eshetu,F,12,6B
+790,20,Nahom G/hiwot Mebiratu,M,11,6B
+791,21,Nardos Shimels fantu,F,12,6B
+792,22,Natan Daniel Zeleke,M,11,6B
+793,23,Natan Sinike Tesema,M,11,6B
+794,24,Natanem Biniyam Moges,M,11,6B
+795,25,Natnael Addis Temsgen,M,11,6B
+796,26,Natnael Desalegn Tufa,M,11,6B
+797,27,Robel Zebenay Haile,M,12,6B
+798,28,Ruth Fitsum Tesfaye,F,11,6B
+799,29,Samrawit Getsh Melese,F,11,6B
+800,30,Samueal Getinet  Midikisa ,M,12,6B
+801,31,Saron Tasew Abera ,11,F,6B
+802,32,Sifen Bekele ,F,12,6B
+803,33,Soliyan Aynalem Hailu,F,11,6B
+804,34,Soliyana Fikru Mekete,F,12,6B
+805,35,Soloyana Alemneh Midekisa,,F,6B
+806,36,Tsebaot Daniel Abate,M,13,6B
+807,37,Yabisr Melaku Alemu,M,10,6B
+808,38,Yabisra Miliyon Tsegaye,M,11,6B
+809,39,Yabsira Mekonin Moges,11,M,6B
+810,40,Yamilak Fikru Shewa,F,12,6B
+811,41,Yibekal Moges Bezabih,11,M,6B
+812,42,Yohanis Gezahegn Getachew,M,12,6B
+813,1,Abenzer Geremew Gedle,M,11,6C
+814,2,Amanuel Dese Asefa,M,12,6C
+815,3,Ananiya Milikiyas Tefera,M,12,6C
+816,4,Ananiya Mulugeta Atsibha,M,11,6C
+817,5,Ananiya Sintayhu Tsega,M,12,6C
+818,6,Aster Zewdu Abebe,F,13,6C
+819,7,Barok Lema Mulatu,M,11,6C
+820,8,Berketeab Eliyas  Negash ,M,11,6C
+821,9,Besufikad Teshom Tefera ,M,12,6C
+822,10,Betsinat Siyoum Gari,F,12,6C
+823,11,Betsinat Tigistu Bereket ,F,12,6C
+824,12,Biheletsega Shanibel Astatike,M,11,6C
+825,13,Bilen Sileshi Hailu,F,12,6C
+826,14,Bitaniya Biniyam Selomon,F,13,6C
+827,15,Cristiyan Tamirat Ketsela,F,12,6C
+828,16,Daniel Tale Bekele,M,12,6C
+829,17,Delina Birhanu Tsegaye,F,11,6C
+830,18,Eden Dangnachew Teshome,F,12,6C
+831,19,Edomiyas mesfin Assefa ,F,12,6C
+832,20,Eldana Asnake Tegineh,F,12,6C
+833,21,Elinata Niguse Hailu,M,13,6C
+834,22,Feven Daniel Weltamo,F,12,6C
+835,23,Firaole Sisaye Kumbi,m,11,6C
+836,24,Henok Mesfin Sime,M,12,6C
+837,25,Hiruy   Zerihun  Desta,M,12,6C
+838,26,Kalkidan Kifle  Abate ,F,15,6C
+839,27,Kirubele Habitamu Mekonine,M,14,6C
+840,28,Merone Gebeyhu  Bekele ,F,13,6C
+841,29,Micael Hailu Tefera,M,11,6C
+842,30,Micyase Siyoum Gari,M,12,6C
+843,31,Mihiret Alebachew Demisse,F,12,6C
+844,32,Nardose Aweke Legese ,F,10,6C
+845,33,Natan Daniel Beker,M,12,6C
+846,34,Nob Endalekachew  Temirga ,M,10,6C
+847,35,Raye Samuel Yeshiwork ,M,12,6C
+848,36,Rediet Aschalew Gashaw,F,12,6C
+849,37,Robel Ashenafi Bizuneh ,M,13,6C
+850,38,Saron Fasil Tamen ,F,12,6C
+851,39,Saron Solomon Alemayehu,F,11,6C
+852,40,Yabisra Solomon Niguse ,M,11,6C
+853,41,Yabtsega Worku  Gudiso ,M,11,6C
+854,42,Yididiya Yalemzewd  Shiferaw ,F,11,6C
+855,43,Yohanan Bekele Shura,F,11,6C
+856,44,Yohanis Wendosen Kifle,M,12,6C
+857,45,Zodiyak Hasen Abidela ,M,12,6C
+858,1,Abel  Esayas Adal,M,13,7A
+859,2,Abenezer Fikadu Ararsa,M,14,7A
+860,3,Abigiya Bogale Yismaw,F,13,7A
+861,4,Abigiya Yewuhalashet,F,13,7A
+862,5,Abreham Ayele H/Mariam,M,13,7A
+863,6,Ab-yesalat Dita Hailu,F,12,7A
+864,7,Afomiya Akililu Kebede,F,12,7A
+865,8,Amanuel Solomon Tefera,M,11,7A
+866,9,Arsemawit Adisu Shibru,F,13,7A
+867,10,Bereket Shimels Shiberu,M,13,7A
+868,11,Bereket Tsegaye Bekele,M,14,7A
+869,12,Bezawit Gashaw Tegenu,F,13,7A
+870,13,Birtukan Tura Tadese,F,15,7A
+871,14,Dawit Ayichew Nigatu,M,13,7A
+872,15,Eldana Abebe Asefa,F,12,7A
+873,16,Elsebet Mesfin seyfu,F,12,7A
+874,17,Eshetu H/Gebriel Zenebe,M,13,7A
+875,18,Eyosiyas Habitamu Gebiru,M,14,7A
+876,19,Ezra Lawgaw Asfaw,M,13,7A
+877,20,Filimon Regasa Legese,M,11,7A
+878,21,Haset Tewodros Shiferawu,F,12,7A
+879,22,Jinenus  Hailu Dinka,M,13,7A
+880,23,Kaleab Alemayehu Mersha,M,15,7A
+881,24,Luwan Dereje Dagne,F,13,7A
+882,25,Maedot Tewodros Demise,F,13,7A
+883,26,Mahilet Gizaw Mamo,F,12,7A
+884,27,Mekdelawit Binyam Bisrat,F,12,7A
+885,28,Meron Abel Tesfaye,F,15,7A
+886,29,Mintesenot Tadesse Gebre,M,12,7A
+887,30,Nahome Alemayehu Eshetu ,M,13,7A
+888,31,Nahome Solomon Alemu,M,13,7A
+889,32,Natanim Yitages Behabtu,M,14,7A
+890,33,Natinael Habitamu Tadese,M,14,7A
+891,34,Natnael Ayalew Kebede,M,14,7A
+892,35,RimTesfaye Berihe ,M,13,7A
+893,36,Sara Bezawerk Teklu,F,12,7A
+894,37,Tsinat Getnet Mulatu,F,13,7A
+895,38,Tsinat Gezaheng Lema,F,14,7A
+896,39,Yididiya Demelash Mekonin,F,14,7A
+897,40,Yoftaye Tsegaye Fayisa ,M,13,7A
+898,41,Yohanis Getachew Asegid,m,14,7A
+899,42,Yordanos Cheru Agonafir ,F,13,7A
+900,43,Yordanos Shewangizaw Made,F,12,7A
+901,1,Afomiya Sisay Terefe,F,12,7B
+902,2,Amanuel Yitagasu Dentamo,M,13,7B
+903,3,Ananya Begashaw Belayeneh,F,12,7B
+904,4,Bereket Sisay Tegegn,M,,7B
+905,5,Bernabas Ashebir Seyum ,M,13,7B
+906,6,Betelihem Adinew Demise,F,14,7B
+907,7,Bethelhem Abera Bejiga,F,12,7B
+908,8,Betselot w/senbet Sera,F,12,7B
+909,9,Bilen Behaylu Nigussie,F,11,7B
+910,10,Bilen Solomon  Siyum ,F,13,7B
+911,11,Bisrat Awulachew Tirfe,M,12,7B
+912,12,Dagim Ephrem Abzagn,M,12,7B
+913,13,Daniel sisaye Lema,M,,7B
+914,14,Dawit Yeshitila Hailu,M,11,7B
+915,15,Eden Abayneh Mekonin,F,13,7B
+916,16,Eden Getahun Eshetu,11,F,7B
+917,17,Eden Teferi Alemu,F,13,7B
+918,18,Estifanos Leykun Zewdu,12,M,7B
+919,19,Fenet Addis Zelalem ,F,11,7B
+920,20,Fikreyohannes Fiseha G/kirstos ,M,13,7B
+921,21,Firaol Amare Demise,M,13,7B
+922,22,Hermela  Kaleb Redi,F,12,7B
+923,23,Hermela Gizachew Amensisa,F,12,7B
+924,24,Hiwot Gemechu Mandefiro,F,12,7B
+925,25,Kaleb Beyene Disase,14,M,7B
+926,26,Lidiya Sisaye Lema,F,13,7B
+927,27,Lidya Endashaw Bekele ,F,14,7B
+928,28,Meron Zerihun Abose,F,12,7B
+929,29,Netsanet Birhanu,F,12,7B
+930,30,Rekik Samson Kebede,F,12,7B
+931,31,Ruham Seyfu Hassen,13,F,7B
+932,32,Samrawit Alemayehu,F,13,7B
+933,33,Saron Getahun Tesfaye,F,13,7B
+934,34,Soliyana Addis Alemu,F,13,7B
+935,35,Soliyana Ephrem  Nigussie,F,11,7B
+936,36,Soyam Bekele Yilma,F,11,7B
+937,37,Tesfalidet wendimageng Teka,12,M,7B
+938,38,Yabitsega Demelash Ayichluhim ,M,12,7B
+939,39,Yabtsega Yesuneh Solomon,12,F,7B
+940,40,Yadonay Daniel Mogese ,M,13,7B
+941,41,Yakin Asnake Wendimu ,12,M,7B
+942,42,Yididya Tekalign Nebse,F,11,7B
+943,43,Yohanis Girma Ademe,14,M,7B
+944,1,Abel Getnet Silishi,,,
+945,2,Alazar Chernet Siyoum,M,13,7C
+946,3,Amanueal Tesfaye Menigesha,M,14,7C
+947,4,Ananya Kifle  Tefera,F,14,7C
+948,5,Beamlak Esrael Solomon,F,12,7C
+949,6,Bereket Mesaye Habite ,M,13,7C
+950,7,Bethelihem Gebeyehu Teferi,F,13,7C
+951,8,Dagim Shefiraw  Kumsa ,M,13,7C
+952,9,Dagmawi Ashenafi Fikadu,M,13,7C
+953,10,Eden Asaye Kefeni,F,13,7C
+954,11,Eldana Deribe Zewde ,F,13,7C
+955,12,Eleni Solomon Bekele,F,14,7C
+956,13,Elsabet Seyife Teshome,F,14,7C
+957,14,Estifans H/Mariyam Eyasu,M,14,7C
+958,15,Farsen Naol Negewo,M,13,7C
+959,16,Feven Chernet Siyoum ,M,14,7C
+960,17,Fiker Gezae Fiseha,M,14,7C
+961,18,Hiwot Fetene Deribe,F,13,7C
+962,19,Keyom Genene Girma ,M,13,7C
+963,20,Kiduse Tsegaye Negash,M,13,7C
+964,21,Lamirot Mebiratu Amare ,F,13,7C
+965,22,Mena Fikadu Bekele,F,13,7C
+966,23,Muse Debru Amha ,M,13,7C
+967,24,Nahom Ayalew  Kinfe ,M,13,7C
+968,25,Natanem Workneh Fikre,M,13,7C
+969,26,Natanim Ashenafi Tolosa,M,13,7C
+970,27,Nebiyu Ermiyas Wogayew,M,14,7C
+971,28,Rediet  wegaso Molta ,F,12,7C
+972,29,Sanper Zelalem Hailu,F,13,7C
+973,30,Saron Wondiye Negash,F,12,7C
+974,31,Sayat Girma Tulu ,F,13,7C
+975,32,Tsiyon Yonas Assefa,F,13,7C
+976,33,Wenigelawit Girmame Teshome ,F,12,7C
+977,34,Yabsira Arusa Bedo,F,14,7C
+978,35,Yabtsega Getnet  Fikadu ,M,14,7C
+979,36,Yanet Anteneh Aschalew,F,12,7C
+980,37,Yerosen Lema Alemu,F,13,7C
+981,38,Yonatan Kibebew Biru,M,13,7C
+982,39,Yordanos Asemare Gebeyaw,F,13,7C
+983,40,Yordanos H/micael Musema,F,13,7C
+984,41,Yosef H/micael Ketema,m,13,7C
+985,42,Yoseph Tegenu Tulu ,M,13,7C
+986,43,Yostina Bayelign Admasu,F,13,7C
+987,1,Adoniyas Kasahun Dinku,M,13,8A
+988,2,Alazar Ayefokiru Getachew,M,13,8A
+989,3,Amanuel Birhane Meskel,,,8A
+990,4,Arisemawit Zeregaw Gate,F,12,8A
+991,5,Edilawit Mebiratu Bogale ,F,13,8A
+992,6,Edilawit Tesema Babu,F,12,8A
+993,7,Erimiyas Addis Mengesha ,M,14,8A
+994,8,Eyob Solomon Abebe ,M,13,8A
+995,9,Eyob Solomon Tefera,M,12,8A
+996,10,Firebiruk Gezu Eshetu,M,12,8A
+997,11,Hana Nebru Bayu,F,14,8A
+998,12,Henok Tesfaye Abebe,M,13,8A
+999,13,Hermon Bisrat Regasa,F,12,8A
+1000,14,Kalikidan Addis G/Meskel,F,12,8A
+1001,15,Kenesat Sahlu Girma ,M,12,8A
+1002,16,Kidus Yohans Beyene,M,13,8A
+1003,17,Lidiya Mesfin Kasa,F,12,8A
+1004,18,Liul Mekonin Sime,M,13,8A
+1005,19,Liya Mesfin Kasa,F,12,8A
+1006,20,Mahilet Worku Mulugeta,F,,8A
+1007,21,Maranata Demoz Abera,F,12,8A
+1008,22,Micyas Gosa Gizaw ,M,12,8A
+1009,23,Nardos Sintayehu Alemayehu,,13,8A
+1010,24,Nardos Solomon Hailu,F,12,8A
+1011,25,Nigest Teshom Abera,F,12,8A
+1012,26,Nihemya Teshom Tekle,M,13,8A
+1013,27,Nuhamin  Aynalem Hailu,F,13,8A
+1014,28,Obsina Habtamu desasa,M,12,8A
+1015,29,Rediet Geleta Wendimu  ,F,13,8A
+1016,30,Remat Biniyam Asefa,F,12,8A
+1017,31,Samirawit Akiliu Mekesha ,F,12,8A
+1018,32,Samuel Endale Negash,M,12,8A
+1019,33,Samuel Zelalem Tadese,M,12,8A
+1020,34,Tewobista Biruk Hailu,F,12,8A
+1021,35,Tsiyon Dagim Asefa,F,12,8A
+1022,36,Yabisra Ketema Tariku,M,13,8A
+1023,37,Yared Shalo,M,14,8A
+1024,38,Yishak Amihay Alemu,M,12,8A
+1025,39,Yonatan Abel Tesfaye,M,15,8A
+1026,1,Abel Getahun Eshetu,M,14,8B
+1027,2,Abel Gezahegn H/Giyirgis,M,13,8B
+1028,3,Abirham Kiros Gebire,M,15,8B
+1029,4,Amiha Ashenafi Semani,M,15,8B
+1030,5,Ananiya Mengistu Tekola,M,14,8B
+1031,6,Arisema Dawit Melese,F,14,8B
+1032,7,Ashebir Bekele Gebire,M,16,8B
+1033,8,Befiker Ashebir Tegegn,M,14,8B
+1034,9,Betelhem Damirew Legese ,F,14,8B
+1035,10,Betelhem Tadele Kasaye,F,14,8B
+1036,11,Bezawit Ketema Megersa,F,13,8B
+1037,12,Bilen Yosef,,,8B
+1038,13,Buzayehu Debebe Eshetu ,M,14,8B
+1039,14,Dagimaw Tezera Birhane,M,14,8B
+1040,15,Eden Gulema Kassa,F,14,8B
+1041,16,Elsa Gosa Melka ,F,14,8B
+1042,17,Erimiyas Fanta Girum,M,14,8B
+1043,18,Eyakem Kebede Debele ,M,14,8B
+1044,19,Fenet Genene Girma ,F,13,8B
+1045,20,Hiruy Sisay Tefera,M,14,8B
+1046,21,Keneni Yergalem Assefa,F,14,8B
+1047,22,Kidus Getachew Gebre,M,14,8B
+1048,23,Mariyamawit Binyam w/argaye,F,12,8B
+1049,24,Melat Ashebir Dejene,F,14,8B
+1050,25,Muse Kebede Debele,M,13,8B
+1051,26,Nanati Megersa Deyu,F,14,8B
+1052,27,Nuhamin Milion Kasahun ,F,13,8B
+1053,28,Sipara Solomon Garedew,F,14,8B
+1054,29,Tesfayohanise Daniel Tolosa,M,14,8B
+1055,30,Tsiyon Dereje Yesimaw,F,15,8B
+1056,31,Yerosen Getnet ,M,14,8B
+1057,32,Yerosen Tadese Duguma,M,14,8B
+1058,33,Yididya Tefiri Fikadu,F,13,8B
+1059,34,Yohanan Wubishet Teshome,F,13,8B
+1060,35,Yohanse Yerigalem Ayele ,M,14,8B
+1061,36,Yordanos Alemayehu Setegn ,F,14,8B
+1062,37,Yordanos Worku Minda,F,14,8B
+1063,38,Yordanos Yohanise Bogale ,F,13,8B
+1064,39,Zelalem Mekuria Regasa,M,13,8B

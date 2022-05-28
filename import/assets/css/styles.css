@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+input[type="submit"] {
+	display:block;
+}
+
+#nono {
+	display: block;
+}
+

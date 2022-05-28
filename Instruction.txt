@@ -1,0 +1,14 @@
+if you want toimport a csv file to register students go to-->userlogin[located on the top right corner of home page] then 
+enter Email: a@gmail.com
+      password:123456
+after you logged into user session then from the left side bar select import students -->then select browse -->then follow you server directory and choose the folder that contains this project-->from that select csv import folder[this folder contains the list of students in abune gorgorios school and saint joseph adama school]... after you choose and select a csv file then click on upload button..then wait a moment until the system display the list of students.. the you have successfully import students.. the click the home button.... after that select shuffle students ...then you can shuffle them ... 1 touch on shuffle button means for the first week.....
+
+if you want to login to admin session
+username:admin
+password:admin123
+
+
+if you want to upload other students from another school to shufflethem,,,you should first drop the table in the database and import empty table of student lists..
+
+
+also to start working with the system..you have to import a database known as gift_db from a database folder....
